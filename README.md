@@ -14,8 +14,8 @@ ARTS EDUCATION:LEARNIG BY CREATING AND CO-CREATING WITH YOUR ART
     - [2.4. Technological approach](#subparagraph-d)
     
 - [3.PROTOTYPE](#paragraph-3)
-    - [Subparagraph C](#subparagraph-c)
-    - [Subparagraph D](#subparagraph-d)
+    - [3.1 The page in the middle](#subparagraph-a)
+    - [3.2 The first page on the left.](#subparagraph-b)
     
 - [4.USER SCENARIO](#paragraph-4)
  
@@ -144,10 +144,26 @@ The combination of these three activities should allow a progressive development
 2 To access to the WeChat, it is necessary to have an account. Basically, many Chinese people use this Application. Foreign people can use this App if they have an account. 
 
 # 3. PROTOTYPE 
+We try to follow an intuitive architecture of our App using few buttons which have attractive and powerful colours.  
 
 <p align="center">
   <img width="800" height="600" src="process6.png">
 </p>
+
+### 3.1 The page in the middle  
+
+When user uses the App, he sees the page on the middle of the above picture.
+1) In the middle of the second page there is a main button which represents one of the many Art experiences to do. By pressing on this button, user can start to participate to a creative game. A new page appears where user can start to play with other users by inviting them to participate to the Art experiences. 
+Also, by dragging across the main button just the image on the button changes, everything else stays the same. Each big button in the middle of the App represents several Art experiences. For example, the main button in the middle of the second page represents one of the Art experience named 60sPoetryChallenge. 
+2) 3 icons are placed down the page. By pressing on the first icon on the left, user has access to a personal page which is the first page of the above picture. 
+The icon in the middle is a main page link. This icon is represented by the arrow of the compass. The basic principle is the following: user can look for his/her orientation by playing with Art.
+The third icon on the left allows user to be addressed to the third page on the right in the above picture. In this page user sees a list of categories about different sections of art experiences, such as: Visual, Music, Literature, Performance, Guide Tour, and Hands-on activities. It is about a specific icon whose function is facilitating the use of the interface by users. In these categories, users can see other creative works (individual and collective) and upload co-creative works.
+3) A search string is placed at the top of the page. Its function is allowing an immediate search of interested art sector. It is about another specific icon whose function is facilitating the use of the interface by users.
+
+### 3.2 The first page on the left.
+
+1) This page represents the personal sphere of the user, in which he/she can upload his/her personal creation. 
+2) A button for uploading is placed at the top of the page. In the middle of the page there is the most recent user individual creation. To the lower side of the page, there are many less recent individual creations. User can choose if share its works with others. For each personal creative works, a new page appears where users can discuss about the creative work.
 
 # 4. USER SCENARIO
 
@@ -175,7 +191,7 @@ From the 5th year, we expect that a large number of interested people from 36 ye
 </p>
 
 
-# 6.	REFERENCES AND PICTURE  
+# 6.	REFERENCES
 
 Reid, M. (2017). Arts Education and the SDGs, available at http://www.teachsdgs.org/blog/arts-education-and-the-sdgs (last access 17.07.2019).
 UNESCO, Road Map for Art Education - The World Conference on Arts Education: Building Creative Capacities for the 21st Century, Lisbon, 6-9 March 2006, available at http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CLT/CLT/pdf/Arts_Edu_RoadMap_en.pdf (last access 17.07.2019).
