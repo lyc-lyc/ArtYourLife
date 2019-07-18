@@ -101,7 +101,7 @@ We have chosen the name ArtYourLife because it consists in an App that allows us
 ### 2.2 The functions.
 
 <p align="center">
-  <img width="800" height="600" src="process2.PNG">
+  <img width="400" height="300" src="process2.PNG">
 </p>
 
 1 INDIVIDUAL CREATIVE WORKS
@@ -119,7 +119,7 @@ This function is providing for both the creation activities (individual and coll
 ### 2.3  ArtYourLife under the SDG Target
 
 <p align="center">
-  <img width="800" height="600" src="process3.PNG">
+  <img width="800" height="600" src="process3.png">
 </p>
 
 Our App falls within the Target N. 4. 
@@ -146,7 +146,7 @@ The combination of these three activities should allow a progressive development
 # 3. PROTOTYPE 
 
 <p align="center">
-  <img width="800" height="600" src="process6.PNG">
+  <img width="800" height="600" src="process6.png">
 </p>
 
 # 4. USER SCENARIO
