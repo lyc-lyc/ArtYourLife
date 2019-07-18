@@ -3,7 +3,7 @@ Using the "readme" code of this repository as the basis of your "readme" in your
 
 # Table of contents
 
-- [Paragraph 1](#paragraph-1)
+- [maria](#paragraph-1)
 
 - [Paragraph 2](#paragraph-2)
     - [Subparagraph A](#subparagraph-a)
