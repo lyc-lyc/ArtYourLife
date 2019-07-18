@@ -27,7 +27,7 @@ ARTS EDUCATION:LEARNIG BY CREATING AND CO-CREATING WITH YOUR ART
 # 1. PROBLEM.
     
 ### 1.1 Current art education in China.
-
+<p style="text-align:justify; text-justify:inter-ideograph;">
 From the beginning of the 21st century, the Chinese government has promoted many policies for regulating different aspects of art education. So, the art education has gained a great attention in this country. 
 However, this focus has been restricted to the urban schools. In the rural areas the art education is still very weak, especially in rural primary and secondary schools. There are some areas, such as in Guangxi, Qinghai, Gansu, Jiangxi, Henan and Hainan where Art field has not the same importance of the other disciplines. This condition depends on several aspects, such as: 
 1) less resources invested in the development of art education, 
@@ -38,7 +38,7 @@ However, this focus has been restricted to the urban schools. In the rural areas
 
 Also, in the rural areas there are museums where you can see classical art works (paintings, sculptures, etc.). However, the art galleries, where one can take part to the art exhibitions, are only in the urban area.  
 These conditions involve two issues. First, people have not the opportunity to do many art experiences. Secondly, people have not the opportunity to get art education. 
-
+</p>
 <p align="center">
   <img width="800" height="600" src="process.PNG">
 </p>
