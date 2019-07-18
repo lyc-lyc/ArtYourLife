@@ -100,6 +100,10 @@ We have chosen the name ArtYourLife because it consists in an App that allows us
 
 ### 2.2 The functions.
 
+<p align="center">
+  <img width="800" height="600" src="process2.PNG">
+</p>
+
 1 INDIVIDUAL CREATIVE WORKS
 Individual creative work function helps users to express themselves by upload their individual works. 
 In the first page, there is an icon about the personal profile of the user. By pressing on the icon, the user is addressed to him/her personal page where he/she can upload his/her personal works. Each user has a personal gallery that is organised based on chronological order. 
@@ -113,11 +117,26 @@ These experiences should allow participants learning in a passive way.
 This function is providing for both the creation activities (individual and collaborative). The section of the discussion allows users learning in an active way. It is organised so as to stimulate the discussion based on several sub-categories, such as: look for the similarities with the artist work, look for the mistakes if the rules of the sonnet have not been complied with; guess the idea of the artist, etc.
    
 ### 2.3  ArtYourLife under the SDG Target
+
+<p align="center">
+  <img width="800" height="600" src="process3.PNG">
+</p>
+
 Our App falls within the Target N. 4. 
 The link between Art education and Quality Education target has been highlighted by REID M. He said that:
 “Thinking about Arts Education it can be uncomfortably common for arts learning to be left out of the conversation on high profile trends in education. It is the time for that to change. Arts Learning is an opportunity for students to explore ideas and arts-based solutions to problems in the worlds”. 
 In other words: A comprehensive education includes learning in the arts.
+
+<p align="center">
+  <img width="800" height="600" src="process4.PNG">
+</p>
+
 The combination of these three activities should allow a progressive development of many abilities of the right side of the brain.
+
+<p align="center">
+  <img width="800" height="600" src="process5.PNG">
+</p>
+
 
 ### 2.4. Technological approach 
 
@@ -125,6 +144,10 @@ The combination of these three activities should allow a progressive development
 2 To access to the WeChat, it is necessary to have an account. Basically, many Chinese people use this Application. Foreign people can use this App if they have an account. 
 
 # 3. PROTOTYPE 
+
+<p align="center">
+  <img width="800" height="600" src="process6.PNG">
+</p>
 
 # 4. USER SCENARIO
 
@@ -146,6 +169,11 @@ We expect that our App will be used by people having an interest on Art. We cons
 We expect a graduation about the users of our App over time. The young people will be braver than old people to use this platform to show and improve their creativity.
 The range of the people from 24 to 35 years feels enticed to use this platform in respect of the popularity reached in the first two years. 
 From the 5th year, we expect that a large number of interested people from 36 years and over could use our App, still on the popularity reached in the first four years.
+
+<p align="center">
+  <img width="800" height="600" src="process7.PNG">
+</p>
+
 
 # 6.	REFERENCES AND PICTURE  
 
