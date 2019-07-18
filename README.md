@@ -40,7 +40,7 @@ Also, in the rural areas there are museums where you can see classical art works
 These conditions involve two issues. First, people have not the opportunity to do many art experiences. Secondly, people have not the opportunity to get art education. 
 
 <p align="center">
-  <img width="397" height="124" src="process.PNG">
+  <img width="400" height="300" src="process.PNG">
 </p>
 
 ### 1.2	Developing the problem for a suitable solution based on the goals.
