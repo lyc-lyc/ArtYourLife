@@ -39,6 +39,10 @@ However, this focus has been restricted to the urban schools. In the rural areas
 Also, in the rural areas there are museums where you can see classical art works (paintings, sculptures, etc.). However, the art galleries, where one can take part to the art exhibitions, are only in the urban area.  
 These conditions involve two issues. First, people have not the opportunity to do many art experiences. Secondly, people have not the opportunity to get art education. 
 
+<p align="center">
+  <img width="397" height="124" src="process.png">
+</p>
+
 ### 1.2	Developing the problem for a suitable solution based on the goals.
 
 Our goals:
